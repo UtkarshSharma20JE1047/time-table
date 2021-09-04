@@ -1,0 +1,89 @@
+h3{
+    text-align: center;
+}
+
+h5{
+    text-align: center;
+}
+
+td {
+    border: 2px solid black;
+    text-align: center;
+    width: 200px;
+}
+th{
+    border: 3px solid black;
+    text-align: center;
+}
+.collapse{
+    border-collapse: collapse;
+
+}
+table {
+    border: 3px solid black;
+    border-radius: 12px;
+    margin-left:60px;
+    margin-right: 60px;
+    margin-bottom: 50px;
+}
+
+#lab td{
+    width:200px;
+    height: 100px;
+}
+#theory td{
+    width: 210px;
+    height:30px;
+}
+#lab td .text :hover{
+    width:205px;
+    background-color:#d9ff82;
+}
+
+.text {
+    background-color: rgb(255, 232, 141);
+}
+#table2 {
+    border:1px solid black;
+    font-size: 15px;
+}
+
+#table2 td{
+    border:1px solid black;
+    height:20px;
+    text-align: initial;
+}
+#table2 th{
+    border:1px solid black;
+    height:18px;
+    text-align: initial;
+}
+#c1{
+    width:50px;
+    text-align: center;
+}
+#c2{
+    width: 120px;
+}
+#c3{
+    width: 130px;
+}
+#c4{
+    width:450px;
+}
+a{
+    text-decoration: none;
+}
+a:link{
+    color:black;
+}
+a:visited{
+    color:black;
+}
+a:hover{
+    font-weight: bold;
+    color:#4361ee;
+}
+#break{
+    width: 150px;
+}
